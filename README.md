@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Node.js / TypeScript SDK for sending events.
-- Application code needs the agentra-sdk client surface while the implementation or remote service remains a separate dependency.
+- Track application events and flush them as a batch.
+- Supply a configured endpoint while retaining event identity in the consuming application.
 
 ## Links
 
