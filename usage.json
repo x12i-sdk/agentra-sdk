@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-sdk",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-sdk",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-sdk",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/sdk",
+  "example": {
+    "title": "Track and flush one analytics event with an offline HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:15:33.046636+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "f1072b00071e2f99933f7496385214fb769c9c712310bf52c0f6b8bf19ca1d5c",
+    "manifestSha256": "9c5c0b69c80dec277de6ba239a82a0f0b0faf608498f1557850cf08737bc9f15"
+  }
+}
